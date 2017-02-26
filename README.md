@@ -1,2 +1,2 @@
 # CraftSlayer
-Blog site
+In progress.
